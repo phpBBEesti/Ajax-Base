@@ -1,5 +1,6 @@
 <?php
 /**
+* Estonian translation by phpBBestonia.eu <https://www.phpbbestonia.eu>
 *
 * Ajax Base extension for the phpBB Forum Software package.
 *
@@ -22,10 +23,10 @@ if (empty($lang) || !is_array($lang))
 }
 
 $lang = array_merge($lang, array(
-	'ACP_AJAX_BASE_TITLE'			=> 'Ajax Base',
-	'ACP_AJAX_BASE_OPTIONS_SAVED'	=> 'Ajax Base options has been saved.',
-	'OPTIONS'						=> 'Options',
-	'AJAXBASE_ALLOW_PREVIEW'		=> 'Ajaxify post preview',
-	'AJAXBASE_ALLOW_WHOISONLINE'	=> 'Ajaxify Who is online section',
-	'AJAXBASE_ALLOW_STATISTICS'		=> 'Ajaxify statistics',
+	'ACP_AJAX_BASE_TITLE'			=> 'Ajaxi Baas',
+	'ACP_AJAX_BASE_OPTIONS_SAVED'	=> 'Ajaxi Baasi valikud on salvestatud.',
+	'OPTIONS'						=> 'Valikud',
+	'AJAXBASE_ALLOW_PREVIEW'		=> 'Ajaxify postituse eelvaade',
+	'AJAXBASE_ALLOW_WHOISONLINE'	=> 'Ajaxify Kes on saadaval',
+	'AJAXBASE_ALLOW_STATISTICS'		=> 'Ajaxify statistika',
 ));
